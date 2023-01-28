@@ -1,3 +1,3 @@
 # developertogo.github.io
 
-[My Porfolio](https://github.com/developertogo/portfolio)
+[My Porfolio](https://developertogo.github.io/portfolio/)
